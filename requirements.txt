@@ -1,4 +1,9 @@
 SQLAlchemy==0.9.2
 irc==8.5.4
+psycopg2==2.5.2
 six==1.5.2
 thealot==0.1
+thealot-alot==0.1
+thealot-excuse==0.1
+thealot-links==0.1
+thealot-quote==0.1
