@@ -1,0 +1,4 @@
+SQLAlchemy==0.9.2
+irc==8.5.4
+six==1.5.2
+thealot==0.1
